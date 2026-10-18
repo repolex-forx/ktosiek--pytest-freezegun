@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ktosiek",
+  "repo": "pytest-freezegun",
+  "versions": [
+    {
+      "commit": "3202256486ea405904ded68b8bd61a409b856a75",
+      "parsed_at": "2026-10-18T05:19:30.904838+00:00",
+      "tag": "0.4.2",
+      "filetree": "filetree/3202256486ea405904ded68b8bd61a409b856a75.nq.gz",
+      "blobs": [
+        "blob/ad267de127ad8e5df555ab4f868d86f1e65d93a3.nq.gz",
+        "blob/e723cb06796121518d58dbca524d8f6650b9b953.nq.gz",
+        "blob/c82334553632d12caf96bd3d3d332d9683d2635c.nq.gz",
+        "blob/1ade348bb74d5b25edb2813cc00395dfc3e6c53f.nq.gz",
+        "blob/e408160b3ceb3fd64459ba6e9d86a3321d46883d.nq.gz",
+        "blob/069ddf71651adbeda3d3370e7b170529d3e5fab7.nq.gz",
+        "blob/c3bb05e8908036ef8446eff03f13be8a3c62ab9a.nq.gz",
+        "blob/a08133f5c3c2062e0866fb15b5ade7f0f04f1f59.nq.gz",
+        "blob/d3009b3055f3a938c82c9e01a257150d12a206a0.nq.gz",
+        "blob/57318620a2126685842ff42d8ab2b29716dbca2e.nq.gz",
+        "blob/db2479eb3248d9825db8ffbd57c99e5a6f0a7920.nq.gz",
+        "blob/a6642a86b98d7a5d47794c6898e74969e9ef1499.nq.gz",
+        "blob/cccceee725be83035c2e77830b6c7a2800312d76.nq.gz",
+        "blob/bc711e55fefdd729816958fa0ce1563b55217c29.nq.gz",
+        "blob/3846fd95458babe609bce4fd7efe756328f56f29.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
