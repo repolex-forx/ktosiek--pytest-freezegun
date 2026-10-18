@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ktosiek/pytest-freezegun/commit/3202256486ea405904ded68b8bd61a409b856a75",
       "git:hexsha": "3202256486ea405904ded68b8bd61a409b856a75",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.2"
     },
     {
