@@ -1,0 +1,11 @@
+{
+  "org": "ktosiek",
+  "repo": "pytest-freezegun",
+  "versions": [
+    {
+      "commit": "3202256486ea405904ded68b8bd61a409b856a75",
+      "tag": "0.4.2",
+      "parsed_at": "2026-10-18T05:21:33.870057+00:00"
+    }
+  ]
+}
